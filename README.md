@@ -170,8 +170,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/codebase-copilot/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/codebase-copilot/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/sula15/codebase-copilot/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/sula15/codebase-copilot/discussions)
 - 📧 **Email**: your.email@example.com
 
 ## 🔮 Roadmap
@@ -189,6 +189,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Your Name](https://github.com/sula15)
 
 </div>
